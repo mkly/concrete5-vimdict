@@ -88,7 +88,6 @@ cacheBlockOutput
 cacheBlockOutputForRegisteredUsers
 cacheBlockOutputOnPost
 cacheBlockRecord
-__call
 camelcase
 can
 canAccessFileManager
@@ -162,8 +161,6 @@ close
 comparePriority
 composer
 config
-__construct
-__construct 
 contains
 containsLowerCase
 containsNumber
@@ -209,7 +206,6 @@ deleteType
 deleteValue
 deliver
 deny
-__destruct
 disableCache
 disableControls
 disableEditing
@@ -1497,7 +1493,6 @@ showInput
 showInstallOptionsScreen
 signupRequestThreshholdReached
 sitemap
-__sleep
 sortBy
 sortByAttributeKey
 sortByCollectionIDAscending
@@ -1527,7 +1522,6 @@ textarea
 timeSince
 to
 tool
-__toString
 trackDownload
 translate
 translateFromRequest
@@ -1574,6 +1568,5 @@ validateForm
 validateKey
 validateTrigger
 view
-__wakeup
 wordSafeShortText
 write
